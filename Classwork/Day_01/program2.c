@@ -51,5 +51,3 @@ int main()
 
     return 0;
 }
-
-//Bad prectice
