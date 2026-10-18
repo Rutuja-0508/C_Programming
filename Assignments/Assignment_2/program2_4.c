@@ -1,3 +1,13 @@
+///////////////////////////////////////
+//
+// Function Name : Display
+// Description   : Displays the first number according to the given frequency
+// Input         : Two integers
+// Output        : Displays the first number repeatedly
+// Author        : Rutuja Patil
+// Date          : 19/10/2026
+//
+///////////////////////////////////////
 /*
     Accept Two numbers from the user and display first number in second number of times
 
