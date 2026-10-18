@@ -1,3 +1,13 @@
+///////////////////////////////////////
+//
+// Function Name : Display
+// Description   : Prints Marvellous five times
+// Input         : No input
+// Output        : Prints Marvellous five times
+// Author        : Rutuja Patil
+// Date          : 19/10/2026
+//
+///////////////////////////////////////
 #include<stdio.h>
 #include<stdlib.h>
 
