@@ -1,3 +1,14 @@
+///////////////////////////////////////
+//
+// Function Name : Display
+// Description   : Prints Hello if the number is less
+//                 than 10, otherwise prints Demo
+// Input         : Integer
+// Output        : Hello or Demo
+// Author        : Rutuja Patil
+// Date          : 19/10/2026
+//
+///////////////////////////////////////
 #include<stdio.h>
 #include<stdlib.h>
 
