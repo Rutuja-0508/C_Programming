@@ -1,3 +1,13 @@
+///////////////////////////////////////
+//
+// Function Name : Display
+// Description   : Prints * iNo times using a counter
+// Input         : Integer
+// Output        : Prints * on the screen
+// Author        : Rutuja Patil
+// Date          : 19/10/2026
+//
+///////////////////////////////////////
 #include<stdio.h>
 #include<stdlib.h>
 
