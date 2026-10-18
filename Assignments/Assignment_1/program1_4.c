@@ -1,3 +1,15 @@
+///////////////////////////////////////
+//
+// Function Name : Check
+// Description   : Checks whether a number is divisible
+//                 by 5
+// Input         : One integer
+// Output        : Returns TRUE if divisible by 5,
+//                 otherwise returns FALSE
+// Author        : Rutuja Patil
+// Date          : 19/10/2026
+//
+///////////////////////////////////////
 #include<stdio.h>
 #include<stdlib.h>
 
