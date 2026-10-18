@@ -1,4 +1,13 @@
-//program to divide two numbers
+///////////////////////////////////////
+//
+// Function Name : Divide
+// Description   : Divides two given numbers
+// Input         : Two integers
+// Output        : Returns the division result
+// Author        : Rutuja Patil
+// Date          : 19/10/2026
+//
+///////////////////////////////////////
 #include<stdio.h>
 #include<stdlib.h>
 
