@@ -46,7 +46,7 @@ int main()
     int iValue1 , iValue2 , iResult;
 
     printf("Enter first No : \n");
-    scanf("%d",&iValue1);  //hecha puthe \n kadhich nhi deyayacha 
+    scanf("%d",&iValue1);  
 
     printf("Enter Second No : \n");
     scanf("%d",&iValue2);
