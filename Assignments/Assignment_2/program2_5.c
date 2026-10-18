@@ -1,3 +1,13 @@
+///////////////////////////////////////
+//
+// Function Name : CheckEven
+// Description   : Checks whether the given number is even or odd
+// Input         : Integer
+// Output        : TRUE if even, FALSE if odd
+// Author        : Rutuja Patil
+// Date          : 19/10/2026
+//
+///////////////////////////////////////
 #include<stdio.h>
 #include<stdlib.h>
 
