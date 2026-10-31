@@ -1,0 +1,44 @@
+///////////////////////////////////////
+//
+// Function Name : RangeDisplayRev
+// Description   : Displays all numbers in reverse order
+// Input         : Two Integers
+// Output        : Numbers in reverse order
+// Author        : Rutuja Patil
+// Date          : 31/10/2026
+//
+///////////////////////////////////////
+
+#include<stdio.h>
+#include<stdlib.h>
+
+void RangeDisplayRev(int iStart, int iEnd)
+{
+    int iCnt = 0;
+
+    if(iStart > iEnd)
+    {
+        printf("Invalid range");
+        return;
+    }
+
+    for(iCnt = iEnd; iCnt >= iStart; iCnt--)
+    {
+        printf("%d\t",iCnt);
+    }
+}
+
+int main()
+{
+    int iValue1 = 0, iValue2 = 0;
+
+    printf("Enter starting point : ");
+    scanf("%d",&iValue1);
+
+    printf("Enter ending point : ");
+    scanf("%d",&iValue2);
+
+    RangeDisplayRev(iValue1,iValue2);
+
+    return EXIT_SUCCESS;
+}
