@@ -1,0 +1,36 @@
+///////////////////////////////////////
+//
+// Function Name : Pattern
+// Description   : Displays reverse numbers with hash
+// Input         : Number of elements
+// Output        : Number and hash pattern
+// Author        : Rutuja Patil
+// Date          : 11/11/2026
+//
+///////////////////////////////////////
+
+#include<stdio.h>
+#include<stdlib.h>
+
+void Pattern(int iNo)
+{
+    int i = 0;
+
+    for(i = iNo; i >= 1; i--)
+    {
+        printf("%d\t#\t", i);
+    }
+    printf("\n");
+}
+
+int main()
+{
+    int iValue = 0;
+
+    printf("Enter number of elements: ");
+    scanf("%d", &iValue);
+
+    Pattern(iValue);
+
+    return EXIT_SUCCESS;
+}
